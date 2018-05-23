@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>账号密码登录</title>
+		<meta name="format-detection" content="telephone=no">
+		<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+		<link rel="stylesheet" href="css/login_id.css" />
+		<script type="text/javascript" src="jquery.min.js" ></script>
+	</head>
+
+	<body>
+
+		<div class="continear">
+			<div class="div_top">
+				<p class="p_wc p_wc-en">- WELCOME -</p>
+				<p class="p_wc">欢迎回到垂音</p>
+			</div>
+			
+			<div class="ipt_phone">
+				<p class="p_phone">手机号
+					<input class=" int_phone" onkeydown="onlyNum();" style="ime-mode:Disabled" maxlength="11" />
+				</p>
+			</div>
+			
+			<div class="ipt_passwd">
+				<p class="p_passwd">密码
+					<input class=" int_phone" onkeydown="onlyNum();" style="ime-mode:Disabled" maxlength="11" />
+				</p>
+			</div>
+			
+			<div class="ipt_a ipt_dx">
+				<p class="p_a">
+					<a href="Login_phone.html" class="a_login">使用短信验证码登录</a>
+					
+					<a href=" " class="a_miss">忘记密码？</a>
+				</p>
+			</div>
+			
+			<div class="p_btn">
+				<p class="p_btn-tj" >提交</p>
+			</div>
+			<div class="p_btn">
+				<p class="p_btn-ty" >新用户体验</p>
+			</div>
+		</div>
+		
+		<script >
+			function onlyNum() {
+				if(!(event.keyCode == 46) && !(event.keyCode == 8) && !(event.keyCode == 37) && !(event.keyCode == 39))
+					if(!((event.keyCode >= 48 && event.keyCode <= 57) || (event.keyCode >= 96 && event.keyCode <= 105)))
+						event.returnValue = false; //执行至该语句时，阻止输入；可类比阻止冒泡原理或者禁止右键功能；
+			}
+		</script>
+
+		
+	</body>
+
+</html>

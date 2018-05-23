@@ -1,0 +1,248 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+	
+	
+	    font-size: 4vmin;
+    font-family: "pingfang SC", 微软雅黑;
+}
+div{
+	display: block;
+}
+.lixingshi{
+	width: 90%;
+	position: relative;
+	margin-top: 8vmin!important;
+	margin: auto;
+}
+.lixingshi_dian{
+	float: left;
+	background-color: #003391;
+	height: 4vmin;
+	width: 1vmin!important;
+	display: block!important;
+	margin-top: 3vmin;
+	margin-left: 3vmin;
+	
+}
+
+
+.lixingshi_STY{
+	float: left;
+	color: #003391;
+	line-height: 6vmin;
+	font-size: 4vmin!important;
+	margin-left: 2vmin;
+	margin-top: 2vmin;
+	
+}
+.lixingshi_zhuanyeguwen{
+	color: #003391;
+	width: 76vmin!important;
+	font-size: 3.5vmin;
+	font-weight: 700;
+	margin-left: 7vmin;
+	margin-top: 8vmin;
+}
+.lixingshi_zhuanyeguwen_wenzi{
+	color: #595757;
+	line-height: 7vmin;
+	height: 40vmin;
+	width: 90%;
+	font-size: 3.8vmin;
+	margin-top: 5vmin!important;
+	margin-left: 3vmin;
+}
+.dapei_tupian{
+	margin: 0 auto;
+	height: 25vmin;
+	width: 95vmin!important;
+	margin-top: 5vmin!important;
+}
+.dapei_tupian_01{
+	float: left;
+	margin-left: 2vmin;
+}
+.dapei_anli{
+	
+    margin: 0 auto;
+    color: #003391;
+    width: 76vmin!important;
+    font-size: 4vmin!important;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 10vmin!important;
+}
+.dandu_goumai{
+    margin: 0 auto;
+    color: #595757;
+    width: 76vmin!important;
+    font-size: 3.5vmin;
+    text-align: center;
+}
+.anli{
+    z-index: 10010;
+    margin: 0 auto;
+    border-radius: 5vmin;
+    border: 1px solid #ddd;
+    width: 90vmin!important;
+    margin-top: 5vmin!important;
+}
+.touxiang{
+    float: left;
+    margin-left: 8vmin;
+    margin-top: 4vmin!important;
+}
+.qingshuang{
+    font-size: 4vmin!important;
+    text-align: left;
+    margin-top: 5vmin!important;
+}
+.polo{
+	font-weight: 700;
+	    font-size: 4vmin!important;
+	    text-align: left;
+}
+.xinzi{
+	font-size: 3.5vmin;
+	    margin-top: 3vmin!important;
+}
+.yonghu{
+	    font-size: 3.5vmin;
+	   margin-top: 1vmin;
+}
+.anli_tupian{
+	width: 90vmin!important;
+	margin-top: 2vmin;
+}
+.anli_wenzi{
+	    background-color: #efefef;
+	    border-radius: 0 0 5vmin 5vmin;
+	    margin-top: 1vmin;
+}
+.anli_wenzi_01{
+    margin: 3vmin auto;
+    line-height: 7vmin;
+    width: 80vmin!important;
+    font-size: 3.5vmin;
+    font-weight: bolder;
+    text-align: left;
+    padding-top: 5vmin;
+}
+.anli_wenzi_02{
+    margin: 0 auto;
+    line-height: 7vmin;
+    width: 80vmin!important;
+    font-size: 3.5vmin;
+    text-align: left;
+}
+.youyafan{
+	z-index: 10010;
+	margin: 0 auto;
+	border-radius: 5vmin;
+	border: 1px solid #ddd;
+	width: 90vmin!important;
+	margin-top: 5vmin!important;
+	
+}
+.marginAuto{
+	margin: 0 auto;
+}
+.marginAuto_chakan{
+	    color: #00339e;
+	    font-size: 3.8vmin;
+	    text-align: center;
+}
+.zhichang_shenghuo{
+	width: 100vmin;
+	margin-top: 15vmin!important;
+	margin: 0 auto;
+}
+.zhichang_shenghuo_01{
+    margin: 0 auto;
+    color: #003391;
+    width: 76vmin!important;
+    font-size: 4vmin!important;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 10vmin!important;
+}
+.zhichang_shenghuo_02{
+    margin: 5vmin auto;
+    color: #595757;
+    line-height: 8vmin;
+    width: 85vmin!important;
+    font-size: 3.5vmin;
+}
+.zhichang_shenghuo_tupian{
+	margin: 0 auto;
+	width: 90vmin!important;
+}
+.tupian01{
+    width: 40vmin;
+    height: 60vmin;
+    float: left;
+    margin-left: 2vmin;
+    margin-top: 3vmin;
+    position: relative;
+    font-size: 3.4vmin;
+    
+}
+.tupian02{
+    width: 40vmin;
+    height: 60vmin;
+    float: left;
+    margin-left: 2vmin;
+    margin-top: 3vmin;
+    position: relative;
+    font-size: 3.4vmin;
+    
+}
+.tupian03{
+	width: 40vmin;
+    height: 60vmin;
+    float: left;
+    margin-left: 2vmin;
+    margin-top: 3vmin;
+    position: relative;
+    font-size: 3.4vmin;
+    
+}
+.tupian04{
+	width: 40vmin;
+    height: 60vmin;
+    float: left;
+    margin-left: 2vmin;
+    margin-top: 3vmin;
+    position: relative;
+    font-size: 3.4vmin;
+    
+}
+.tupian05{
+	width: 40vmin;
+    height: 60vmin;
+    float: left;
+    margin-left: 2vmin;
+    margin-top: 3vmin;
+    position: relative;
+    font-size: 3.4vmin;
+    
+}
+.tupian06{
+	width: 40vmin;
+    height: 60vmin;
+    float: left;
+    margin-left: 2vmin;
+    margin-top: 3vmin;
+    position: relative;
+    font-size: 3.4vmin;
+   
+}
+.tacmt1{
+	text-align: center;
+	
+}
+

@@ -1,0 +1,94 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.div_top {
+	background: url(../img/login.jpg);
+	height: 65vmin;
+	background-size: 100vmin;
+	background-repeat: no-repeat;
+}
+
+.p_wc {
+	width: 100%;
+	line-height: 7vmin;
+	text-align: center;
+	/*border: 1px solid red;*/
+	color: white;
+	font-weight: 500;
+	font-size: 5vmin;
+	padding-top: 3vmin;
+}
+
+.p_wc-en {
+	padding-top: 20vw;
+}
+
+.ipt_phone,
+.ipt_dx,
+.ipt_passwd {
+	width: 90%;
+	margin: auto;
+	line-height: 10vmin;
+	border-bottom: 0.2vmin solid #C0C0C0;
+	margin-top: 3vmin;
+}
+
+.p_phone,
+.p_a,
+.p_passwd {
+	font-size: 4vmin;
+}
+.ipt_a {
+	border: none;
+}
+
+.a_login {
+	text-decoration: none;
+	color: blue;
+	font-size: 3.5vmin;
+}
+.a_miss{
+	text-decoration: none;
+	color: gray;
+	float: right;
+	margin-right: 0;
+	font-size: 3.5vmin;
+}
+
+.int_phone {
+	width: 60%;
+	line-height: 7vmin;
+	margin-left: 20%;
+	border: none;
+}
+
+.p_btn{
+	width: 90%;
+	margin: auto;
+	line-height: 9vmin;
+	margin-top: 5vmin;
+	
+}
+.p_btn-tj{
+	width: 100%;
+	line-height: 10vmin;
+	background-color: darkblue;
+	color: white;
+	text-align: center;
+}
+.p_btn-ty{
+	width: 100%;
+	line-height: 10vmin;
+	background-color: white;
+	color: darkblue;
+	text-align: center;
+	border: 0.2vmin solid darkblue;
+	
+}

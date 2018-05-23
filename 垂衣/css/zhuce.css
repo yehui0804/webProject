@@ -1,0 +1,191 @@
+*{
+	padding:0;
+	margin:0;
+}
+body{
+	font-size: 4vmin;
+    font-family: "pingfang SC", '微软雅黑';
+}
+.reg-top{
+	background: url(../img/reg.jpg);
+	background-size: 100vmin;
+    height: 54vmin;
+    background-repeat: no-repeat;
+}
+.reg-top .tab{
+	font-weight: 500;
+	letter-spacing: 0.3vmin;
+	color: #fff;
+	font-size:4.5vw;
+	text-align:center;
+	padding-top: 20vmin;
+}
+.reg-top .taa{
+	font-weight: 500;
+	letter-spacing: 0.3vmin;
+	color: #fff;
+	font-size:4.5vw;
+	text-align:center;
+	margin-top: 3vw;
+	margin-bottom: 4vw;
+	width: 100vw;
+}
+.reg-bottom {
+	width: 100vw;
+}
+.reg-bottom .vma{
+	margin-top: 2vw;
+    font-size: 2vw;
+    margin-bottom: 2vw;
+    border-bottom: 0.2vw solid #c0c0c0;
+    width: 90vw;
+    height: 10.5vw;
+    margin: 5vw auto;
+    vertical-align: middle;
+}
+.reg-bottom .vma .phone{
+	line-height: 10vw;
+	padding-left: 1vw;
+	float: left;
+	width: 25vmin;
+	font-size: 4vmin;
+	text-align: left;
+}
+.reg-bottom .vma input{
+	font-size: 4vw;
+    padding: 2vw 1vw 2vw 1vw;
+    width: 62vw;
+    background-color: #fff;
+    margin-left: 0;
+    height: 6vw;
+    line-height: 6vw;
+    margin-top: -0.5vw;
+    float: left;
+    border: none;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+}
+.reg-bottom .vac{
+	margin-top: 2vw;
+    margin-bottom: 2vw;
+    border-bottom: 0.2vw solid #c0c0c0;
+    width: 90vw;
+    height: 10.5vw;
+    margin: 5vw auto;
+}
+.reg-bottom .vac .yanzhen{
+	line-height: 10vw;
+    padding-left: 1vw;
+    float: left;
+    width: 25vmin !important;
+    font-size: 4vmin;
+    text-align: left;
+}
+.reg-bottom .vac input{
+	width: 34vw;
+    font-size: 4.5vw;
+    padding: 2vw 1vw 2vw 1vw;
+    background-color: #fff;
+    margin-left: 0;
+    height: 6vw;
+    line-height: 6vw;
+    margin-top: -0.5vw;
+    float: left;
+    border-radius: 0px;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    border: none;
+}
+.reg-bottom .vac .get{
+	width: 28vw;
+    border-radius: 0;
+    background-color: #003391;
+    font-size: 3.5vw;
+    height: 10vw;
+    line-height: 10.5vw;
+    text-align: center;
+    letter-spacing: 0.1vmin;
+    float: left;
+    text-decoration: none;
+    color: #fff;
+	margin-bottom: 2vmin;
+}
+.reg-bottom .vab{
+	margin-top: 2vw;
+    margin-bottom: 2vw;
+    border-bottom: 0.2vw solid #c0c0c0;
+    width: 90vw;
+    height: 10.5vw;
+    margin: 5vw auto;
+}
+.reg-bottom .vab .we{
+	line-height: 10vw;
+    padding-left: 1vw;
+    float: left;
+    width: 25vmin;
+    font-size: 4vmin;
+    text-align: left;
+}
+.reg-bottom .vab input{
+    padding: 2vw 1vw 2vw 1vw;
+    background-color: #fff;
+    margin-left: 0;
+    height: 6vw;
+    line-height: 6vw;
+    width: 62vw;
+    float: left;
+    margin-top: -0.5vw;
+    border: none;
+}
+.reg-bottom .btn{
+	width: 78vw;
+    height: 11.4vw;
+    line-height: 11.4vw;
+    letter-spacing: 1vw;
+    font-size: 4vw;
+    background-color: #003391;
+    margin-top: 8vw;
+    border-radius: 0vmin;
+    display: block;
+    border: 0;
+    margin: 2vmax auto;
+    color: white;
+    text-align: center;
+}
+.gray{
+	font-size: 3.5vmin;
+	text-align: center;
+	color: gray;
+}
+.ps{
+	font-size: 3.5vw;
+    width: 100vw;
+    text-align: center;
+    margin-top: 2vmin;
+    color: gray;
+}
+.zi{
+	width: 80vw;
+    margin: 1vw auto;
+    position: relative;
+    padding: 4vw;
+    margin-top:5vw;
+}

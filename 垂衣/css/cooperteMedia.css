@@ -1,0 +1,175 @@
+* {
+				margin: 0;
+				padding: 0;
+			}
+			/*合作伙伴*/
+			
+			.cooperate {
+				width: 90%;
+				border-bottom: 1px solid darkgray;
+				margin: 0px auto;
+				position: relative;
+				margin-top: 3em;
+			}
+			/*小图标*/
+			.cooperate-text {
+				display: inline-block;
+				height: 50px;
+				font-size: 12px;
+				color: #00339e;
+			}
+			
+			.cooperate-text h3:first-child {
+				border-left: 4px solid darkblue;
+				padding-left: 10px;
+				font-weight: 300;
+				line-height: 1.4em;
+			}
+			
+			.cooperate-text h3:last-child {
+				padding-left: 14px;
+				line-height: 2em;
+				font-weight: 500;
+			}
+			/*\小图标*/
+			
+			/*内容*/
+			.cooperate-img {
+				width: 90%;
+				margin: 0px auto;
+				margin-bottom: 2em;
+			}
+			/*\内容*/
+			/*\合作伙伴*/
+			
+			
+			/*媒体关注*/
+			.media {
+				width: 90%;
+				margin: 0px auto;
+				position: relative;
+				margin-top: 3em;
+			}
+			
+			/*小图标*/
+			.media-text {
+				display: inline-block;
+				height: 70px;
+				font-size: 12px;
+				color: #00339e;
+			}
+
+			.media-text h3:first-child {
+				border-left: 4px solid darkblue;
+				padding-left: 10px;
+				font-weight: 300;
+				line-height: 1.4em;
+			}
+			
+			.media-text h3:last-child {
+				padding-left: 14px;
+				line-height: 2em;
+				font-weight: 500;
+			}
+			/*\小图标*/
+			
+			/*内容*/
+			.media-ul{
+				width: 100%;
+				font-size: 13px;
+			}
+			.media-ul li{
+				list-style: none;
+				width: 100%;
+				padding: 15px 0;
+				color: #7087bf;
+			}
+			.media-ul-tubiao{
+				width: 25%;
+				display: inline-block;
+				margin-top: 0px;
+			}
+			.media-ul-tubiao img{
+				width: 80%;
+			}
+			.media-ul li a{
+				width: 65%;
+				display: inline-block;
+				/*text-decoration: none;*/
+				position: relative;
+				top: -4px;
+				margin-left: 5%;
+			}
+			/*\内容*/			
+			/*\媒体关注*/
+			
+			
+			/*底部二维码*/
+			.base{
+				width: 90%;
+				margin: 0 auto;
+				position: relative;
+				font-weight: 300;
+				height: 70vmin;
+			}
+			.base-hezi{
+				width: 100%;
+				height: 130px;
+				background-color: #003391;
+				border-radius: 14px;
+				padding: 0px 5%;
+				box-sizing: border-box;
+				margin-top: 110px;
+				
+			}
+			.base-logo{
+				width: 40%;
+				padding: 15px 0px;
+			}
+			.base-hezi{
+				font-size: 10px;
+				color: #A9A9A9;
+			}
+			/*二维码*/
+			.base-erweima{
+				width: 100px;
+				position: absolute;
+				top: -60px;
+				right: 15px;
+			}
+			.base-erweima p{
+				font-size: 12px;
+				line-height: 20px;
+				color: aliceblue;
+				margin-top: 10px;
+			}
+			.base-span01{
+				position: absolute;
+				left: 0px;
+			}
+			.base-span02{
+				position: absolute;
+				right: 0px;
+			}
+			/*\二维码*/
+			
+			.base-dibu{
+				width: 100%;
+				height: 70px;
+
+			}
+			.base-dibu p{
+				text-align: center;
+				font-size: 12px;
+			}
+			.base-dibu p:first-child{
+				line-height: 40px;
+			}
+			.base-dibu p:last-child a{
+				color: black;
+				display: inline-block;
+				line-height: 20px;
+				/*text-decoration: none;*/
+				/*border-bottom: 1px solid #A9A9A9;*/
+			}
+			/*\底部二维码*/

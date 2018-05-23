@@ -1,0 +1,95 @@
+﻿/*方框段落*/
+#BRANDS{
+	width: 95vmin;
+    height: 50vmin; border: 0.1vmin solid #c0c0c0; margin: auto;
+}
+#BRANDS .sp{
+	margin-left: 2vmin;
+    font-size: 4vmin;
+    color: #003391;
+}
+/*竖线*/
+.p_BRANDS{
+	height: 4vmin;
+	
+	width: 90%;  margin: auto; margin-top: 5vmin;
+}
+.p{
+	width: 90%;  margin: auto; margin-top: 4.5vmin;
+	font-size: 3.5vmin;
+	line-height: 7vmin;
+	font-weight: 300;
+}
+
+.p_re{
+	text-align: center;
+	width: 90%; 
+	margin: auto; 
+	margin-top: 7vmin;
+	margin-bottom: 7vmin;
+}
+
+.p_title{
+	padding:2vmin;border:1px solid #ccc; text-align: center;
+	font-size: 3.5vmin;
+}
+.span_shu{
+	width: 1vmin;
+	height: 4vmin;
+	background: #003391;
+	display: inline-block;
+}
+
+/*.clear{
+	margin-top: 2em;
+	width: 100%;
+	height: 2em;
+	background: blue;
+}*/
+/*图片*/
+.p_title{
+	color: #D7A55D;
+}
+.div_tp{
+	width: 30%; float: left; margin-left: 10%; margin-right: 10%;
+	/*margin-bottom: 1em;
+*/
+}
+
+.div_tp-box{
+	border:0.1vmin solid #888888;padding:0.5vmin;
+}
+.div_top-img {
+	width: 100%;
+	height: 18em;
+	/*margin-top: 3vmin;*/
+}
+/*衣服图片*/
+.div_yf{
+	float: left;
+	width: 25%;
+	padding-left: 4%;
+	padding-right: 4%;
+	margin-top: 5vmin;
+}
+.lazy{
+	
+	width: 100%;
+}
+.div_yf1{
+	float: left;
+	width: 30%;
+	margin-left: 20%;
+	margin-top: 3em;
+}
+.div_yf2{
+	float: left;
+	width: 30%;
+	margin-right: 20%;
+	margin-top: 3em;
+}
+/*价格*/
+.p_price{
+	text-align: center;
+	font-size: 3.4vmin;
+}
